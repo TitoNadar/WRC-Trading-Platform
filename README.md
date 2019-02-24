@@ -23,5 +23,6 @@ Learned to worked on one of the most unique problem statements and we did find a
 ## What's next for WRC Trading Platform
 Trading algorithms to design production level trading engines, to match the demand and supply of tokens.
 
-## PPT link:
-https://docs.google.com/presentation/d/13TUXo1WNRE4Qf5WFdIpcB4WYBAbzqUmjxwcDYCRyaIs/edit?usp=sharing
+## Screenshots
+![screenshot from 2019-02-24 15-07-53](https://user-images.githubusercontent.com/26847181/53298176-0e4d5900-3850-11e9-9c02-896f9a9e49c8.png)
+
